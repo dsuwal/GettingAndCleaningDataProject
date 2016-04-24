@@ -1,6 +1,6 @@
 # Code Book
 
-This code book summarizes the resulting data fields in `tidy.txt`.
+This code book provides the the list of fields used in the data file `tidy.txt`.
 
 ## Identifiers
 
