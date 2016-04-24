@@ -1,6 +1,6 @@
 # Getting and Cleaning Data - Course Project
 
-This is the project work for the Getting and Cleaning Data.
+This is the Data science project work for the Getting and Cleaning Data from Coursera.
 The R script, run_analysis.R, does the following:
 
 1. Set the working directory
